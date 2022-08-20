@@ -1,4 +1,5 @@
 import Document, { Html, Head, Main, NextScript } from 'next/document';
+// import styles from './styles/global.scss';
 
 export default class MyDocument extends Document {
   render(){
