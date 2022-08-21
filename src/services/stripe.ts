@@ -7,6 +7,6 @@ export const stripe = new Stripe(
         appInfo: {
             name: 'IgNews',
             version
-        },
+        }, 
     }
 );
